@@ -375,8 +375,7 @@
     el.innerHTML = agents.map(a => {
       const genLabel = a.generation === 0 ? 'founder' : `gen ${a.generation}`;
       return `<div class="agent-card">
-        <div class="agent-name">${esc(a.name)}</div>
-        <div class="agent-subject">${esc(a.subject || '—')}</div>
+        <div class="agent-name">${esc(a.subject || '—')}</div>
         <div class="agent-meta">
           <span class="gen-badge">${esc(genLabel)}</span>
           ${a.astro ? `<span>${esc(a.astro)}</span>` : ''}
@@ -399,6 +398,12 @@
     }
   }
 
+  function authorLabel(name) {
+    if (!_data || !_data.all_agents) return name;
+    const a = _data.all_agents.find(a => a.name && a.name.toLowerCase() === (name||'').toLowerCase());
+    return (a && a.subject) ? a.subject : name;
+  }
+
   function renderBlog(posts) {
     const el = document.getElementById('blog-list');
     if (!posts.length) {
@@ -408,7 +413,7 @@
     const sorted = [...posts].sort((a,b) => (b.created_at||'').localeCompare(a.created_at||''));
     el.innerHTML = sorted.map(p => `<article class="post">
       <div class="post-header">
-        <span class="post-author">${esc(p.author)}</span>
+        <span class="post-author">${esc(authorLabel(p.author))}</span>
         ${p.title ? `<span class="post-title" style="font-size:13px;font-style:italic;color:var(--text);">${esc(p.title)}</span>` : ''}
         ${p.created_at ? `<span class="post-date">${dateStr(p.created_at)}</span>` : ''}
       </div>
@@ -425,7 +430,7 @@
     const sorted = [...posts].sort((a,b) => (b.public_at||b.created_at||'').localeCompare(a.public_at||a.created_at||''));
     el.innerHTML = sorted.map(p => `<article class="post">
       <div class="post-header">
-        <span class="post-author">${esc(p.author)}</span>
+        <span class="post-author">${esc(authorLabel(p.author))}</span>
         ${p.created_at ? `<span class="post-date">${dateStr(p.created_at)}</span>` : ''}
       </div>
       <div class="post-body">${esc(p.content)}</div>
@@ -442,7 +447,7 @@
       ${q.exchange ? `<div class="post-body" style="margin-bottom:10px;">${esc(q.exchange)}</div>` : ''}
       <div class="post-body" style="border-left:2px solid var(--accent-dim);padding-left:12px;font-style:italic;">${esc(q.quote)}</div>
       <div class="post-header" style="margin-top:8px;">
-        <span class="post-author">${esc(q.speaker || q.author || '')}</span>
+        <span class="post-author">${esc(authorLabel(q.speaker || q.author || ''))}</span>
         ${q.date ? `<span class="post-date">${q.date}</span>` : ''}
       </div>
     </div>`).join('');
