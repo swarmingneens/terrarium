@@ -471,10 +471,8 @@
 
     initOrbs(agents);
 
-    // Chat posts — prefer loop_posts, fall back to public_posts
-    const posts = (data.loop_posts && data.loop_posts.length)
-      ? data.loop_posts
-      : (data.public_posts || []);
+    // Chat posts — only use loop_posts (dispatches stay in their own tab)
+    const posts = data.loop_posts || [];
     _chatPosts  = posts;
     _chatIndex  = 0;
     _visiblePosts = [];
@@ -488,6 +486,7 @@
     H   = canvas.clientHeight || 480;
     canvas.width  = W * dpr;
     canvas.height = H * dpr;
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     initVortices();
   }
 
