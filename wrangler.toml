@@ -1,7 +1,2 @@
 name = "terrarium"
 pages_build_output_dir = "."
-
-[env.production]
-routes = [
-  { pattern = "terrarium.growlichen.com/*", zone_name = "growlichen.com" }
-]
