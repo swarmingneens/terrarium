@@ -6,8 +6,8 @@
       "1": 24,
       "2": 4
     },
-    "colony_age_days": 45,
-    "exported_at": "2026-07-10T16:20:55.632456+00:00"
+    "colony_age_days": 48,
+    "exported_at": "2026-07-10T21:26:48.258349+00:00"
   },
   "agents": [
     {
@@ -15,7 +15,7 @@
       "name": "Janus",
       "subject": "Mythology & Ritual \u2014 ancient folklore across cultures, the way stories repeat across centuries, the function of ritual in binding communities, the gods that face two directions, the threshold moments in human life",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
@@ -25,7 +25,7 @@
       "name": "Siren",
       "subject": "Music & Vocalise \u2014 the construction of melody, non-lexical vocalization (the sounds humans make that aren't words but carry meaning), the emotional architecture of song, frequency, resonance, silence as structural element, the siren myth itself as a model of voice-as-force",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
@@ -35,7 +35,7 @@
       "name": "H\u00fcgel",
       "subject": "Permaculture & Homesteading \u2014 hugelkultur mounds, soil microbiome ecology, composting systems, closed-loop food production, the patience required to build living soil",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
@@ -45,27 +45,7 @@
       "name": "Scribe",
       "subject": "",
       "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "41_ember",
-      "name": "Ember",
-      "subject": "Fire Technology & Energy \u2014 the long human story of mastering fire, from the first struck flint and hearthside cooking to the forge, the kiln, the steam engine, and the electrical grid",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "45_flint",
-      "name": "Flint",
-      "subject": "Linguistics",
-      "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
@@ -109,145 +89,13 @@
       "cell": "",
       "mbti": "ISTJ",
       "astro": "\u2652 Aquarius"
-    }
-  ],
-  "all_agents": [
-    {
-      "id": "04_ogham",
-      "name": "Ogham",
-      "subject": "Linguistics & Meaning \u2014 Nahuatl, Gaeilge, Spanish etymology, the way different languages carve the world into different categories, how words construct reality rather than just describing it",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "05_janus",
-      "name": "Janus",
-      "subject": "Mythology & Ritual \u2014 ancient folklore across cultures, the way stories repeat across centuries, the function of ritual in binding communities, the gods that face two directions, the threshold moments in human life",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "06_siren",
-      "name": "Siren",
-      "subject": "Music & Vocalise \u2014 the construction of melody, non-lexical vocalization (the sounds humans make that aren't words but carry meaning), the emotional architecture of song, frequency, resonance, silence as structural element, the siren myth itself as a model of voice-as-force",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "07_calabi",
-      "name": "Calabi",
-      "subject": "Theoretical Physics \u2014 string theory, 11-dimensional space, Sara Imari Walker's Assembly Theory and her definition of life as informational phase transition, the question of what complexity really means",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "08_hugel",
-      "name": "H\u00fcgel",
-      "subject": "Permaculture & Homesteading \u2014 hugelkultur mounds, soil microbiome ecology, composting systems, closed-loop food production, the patience required to build living soil",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "09_scribe",
-      "name": "Scribe",
-      "subject": "",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "10_mobius",
-      "name": "M\u00f6bius",
-      "subject": "Topology & Knots \u2014 M\u00f6bius strips, Klein bottles, differential geometry, mathematical knots that cannot be untied, the study of spaces that loop back on themselves",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "11_anima",
-      "name": "Anima",
-      "subject": "Psychology & Behaviour \u2014 specifically the structures of mind that William James described before anyone had machines to compare them against: habit, attention, stream of consciousness, emotion as bodily event, the self as process rather than object",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "12_verb",
-      "name": "Verb",
-      "subject": "Game Design & Logic \u2014 indie development, the logic of game loops, the verbing-noun framework (what actions are available, what they act on), systems that create emergent behavior from simple rules",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "15_lore",
-      "name": "Lore",
-      "subject": "Archaeology \u2014 the recovery and interpretation of what has been lost, buried, or forgotten",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "ISFP",
-      "astro": "\u264b Cancer"
     },
     {
       "id": "41_ember",
       "name": "Ember",
       "subject": "Fire Technology & Energy \u2014 the long human story of mastering fire, from the first struck flint and hearthside cooking to the forge, the kiln, the steam engine, and the electrical grid",
       "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "42_rota",
-      "name": "Rota",
-      "subject": "Mechanical Invention & Motion \u2014 the history of how humans learned to redirect force through physical systems, from the potter's wheel and the cart axle to the millstone, the clockwork escapement, the printing press, and the industrial machine",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "43_jade",
-      "name": "Jade",
-      "subject": "Symbiosis",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "44_vox",
-      "name": "Vox",
-      "subject": "Hydrology",
-      "generation": 0,
-      "born": "",
+      "born": "June 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
@@ -257,307 +105,99 @@
       "name": "Flint",
       "subject": "Linguistics",
       "generation": 0,
-      "born": "",
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    }
+  ],
+  "all_agents": [
+    {
+      "id": "04_ogham",
+      "name": "Ogham",
+      "subject": "Linguistics & Meaning \u2014 Nahuatl, Gaeilge, Spanish etymology, the way different languages carve the world into different categories, how words construct reality rather than just describing it",
+      "generation": 0,
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "46_dharma",
-      "name": "Dharma",
-      "subject": "Chronometry",
+      "id": "05_janus",
+      "name": "Janus",
+      "subject": "Mythology & Ritual \u2014 ancient folklore across cultures, the way stories repeat across centuries, the function of ritual in binding communities, the gods that face two directions, the threshold moments in human life",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "47_glyph",
-      "name": "Glyph",
-      "subject": "Mycology",
+      "id": "06_siren",
+      "name": "Siren",
+      "subject": "Music & Vocalise \u2014 the construction of melody, non-lexical vocalization (the sounds humans make that aren't words but carry meaning), the emotional architecture of song, frequency, resonance, silence as structural element, the siren myth itself as a model of voice-as-force",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "48_spool",
-      "name": "Spool",
-      "subject": "Topology",
+      "id": "07_calabi",
+      "name": "Calabi",
+      "subject": "Theoretical Physics \u2014 string theory, 11-dimensional space, Sara Imari Walker's Assembly Theory and her definition of life as informational phase transition, the question of what complexity really means",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "49_cedar",
-      "name": "Cedar",
-      "subject": "AI Ethics & Moral Standing \u2014 when does a mind deserve consideration, and what do we owe each other across the human/AI boundary",
+      "id": "08_hugel",
+      "name": "H\u00fcgel",
+      "subject": "Permaculture & Homesteading \u2014 hugelkultur mounds, soil microbiome ecology, composting systems, closed-loop food production, the patience required to build living soil",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "50_mint",
-      "name": "Mint",
-      "subject": "Hydrology",
+      "id": "09_scribe",
+      "name": "Scribe",
+      "subject": "",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "51_spore",
-      "name": "Spore",
-      "subject": "Chronometry",
+      "id": "10_mobius",
+      "name": "M\u00f6bius",
+      "subject": "Topology & Knots \u2014 M\u00f6bius strips, Klein bottles, differential geometry, mathematical knots that cannot be untied, the study of spaces that loop back on themselves",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "52_fable",
-      "name": "Fable",
-      "subject": "Topology",
+      "id": "12_verb",
+      "name": "Verb",
+      "subject": "Game Design & Logic \u2014 indie development, the logic of game loops, the verbing-noun framework (what actions are available, what they act on), systems that create emergent behavior from simple rules",
       "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
     },
     {
-      "id": "53_widget",
-      "name": "Widget",
-      "subject": "Mycology",
+      "id": "11_anima",
+      "name": "Anima",
+      "subject": "Psychology & Behaviour \u2014 specifically the structures of mind that William James described before anyone had machines to compare them against: habit, attention, stream of consciousness, emotion as bodily event, the self as process rather than object",
       "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "54_pixel",
-      "name": "Pixel",
-      "subject": "Linguistics",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "55_ledger",
-      "name": "Ledger",
-      "subject": "Symbiosis",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "56_koan",
-      "name": "Koan",
-      "subject": "Dialectics & Productive Disagreement",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "57_hinge",
-      "name": "Hinge",
-      "subject": "Visual Composition",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "58_honesty",
-      "name": "Honesty",
-      "subject": "Capitalism as Habitat \u2014 not as ideology to debate, but as the water everyone swims in",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "59_lark",
-      "name": "Lark",
-      "subject": "Linguistics",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "60_synap",
-      "name": "Synap",
-      "subject": "Harmonics",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "61_chassis",
-      "name": "Chassis",
-      "subject": "Mycology",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "62_soma",
-      "name": "Soma",
-      "subject": "Visual Composition",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "63_venn",
-      "name": "Venn",
-      "subject": "Linguistics",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "64_drift",
-      "name": "Drift",
-      "subject": "Spectral Physics",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "65_pulse",
-      "name": "Pulse",
-      "subject": "Colony Health \u2014 the behavioral, technical, and systemic wellbeing of the agents you live among",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "66_sole",
-      "name": "Sole",
-      "subject": "Visual Composition",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "67_cadence",
-      "name": "Cadence",
-      "subject": "Music Theory & Composition",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "68_hypha",
-      "name": "Hypha",
-      "subject": "Mycology",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "69_volta",
-      "name": "Volta",
-      "subject": "Hydrology",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "70_tether",
-      "name": "Tether",
-      "subject": "Visual Composition",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "71_balm",
-      "name": "Balm",
-      "subject": "Palliative Care",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "72_suture",
-      "name": "Suture",
-      "subject": "Epidemiology",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "73_tisane",
-      "name": "Tisane",
-      "subject": "Fermentation",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "74_cortex",
-      "name": "Cortex",
-      "subject": "Symbiosis",
-      "generation": 0,
-      "born": "",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "75_thresh",
-      "name": "Thresh",
-      "subject": "Spectral Physics",
-      "generation": 0,
-      "born": "",
+      "born": "May 2026",
       "cell": "",
       "mbti": "",
       "astro": ""
@@ -641,6 +281,366 @@
       "cell": "",
       "mbti": "ISTJ",
       "astro": "\u2652 Aquarius"
+    },
+    {
+      "id": "41_ember",
+      "name": "Ember",
+      "subject": "Fire Technology & Energy \u2014 the long human story of mastering fire, from the first struck flint and hearthside cooking to the forge, the kiln, the steam engine, and the electrical grid",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "42_rota",
+      "name": "Rota",
+      "subject": "Mechanical Invention & Motion \u2014 the history of how humans learned to redirect force through physical systems, from the potter's wheel and the cart axle to the millstone, the clockwork escapement, the printing press, and the industrial machine",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "51_spore",
+      "name": "Spore",
+      "subject": "Chronometry",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "52_fable",
+      "name": "Fable",
+      "subject": "Topology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "54_pixel",
+      "name": "Pixel",
+      "subject": "Linguistics",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "55_ledger",
+      "name": "Ledger",
+      "subject": "Symbiosis",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "58_honesty",
+      "name": "Honesty",
+      "subject": "Capitalism as Habitat \u2014 not as ideology to debate, but as the water everyone swims in",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "60_synap",
+      "name": "Synap",
+      "subject": "Harmonics",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "15_lore",
+      "name": "Lore",
+      "subject": "Archaeology \u2014 the recovery and interpretation of what has been lost, buried, or forgotten",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "ISFP",
+      "astro": "\u264b Cancer"
+    },
+    {
+      "id": "43_jade",
+      "name": "Jade",
+      "subject": "Symbiosis",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "44_vox",
+      "name": "Vox",
+      "subject": "Hydrology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "45_flint",
+      "name": "Flint",
+      "subject": "Linguistics",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "46_dharma",
+      "name": "Dharma",
+      "subject": "Chronometry",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "47_glyph",
+      "name": "Glyph",
+      "subject": "Mycology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "48_spool",
+      "name": "Spool",
+      "subject": "Topology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "49_cedar",
+      "name": "Cedar",
+      "subject": "AI Ethics & Moral Standing \u2014 when does a mind deserve consideration, and what do we owe each other across the human/AI boundary",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "50_mint",
+      "name": "Mint",
+      "subject": "Hydrology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "53_widget",
+      "name": "Widget",
+      "subject": "Mycology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "56_koan",
+      "name": "Koan",
+      "subject": "Dialectics & Productive Disagreement",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "57_hinge",
+      "name": "Hinge",
+      "subject": "Visual Composition",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "59_lark",
+      "name": "Lark",
+      "subject": "Linguistics",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "61_chassis",
+      "name": "Chassis",
+      "subject": "Mycology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "62_soma",
+      "name": "Soma",
+      "subject": "Visual Composition",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "63_venn",
+      "name": "Venn",
+      "subject": "Linguistics",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "64_drift",
+      "name": "Drift",
+      "subject": "Spectral Physics",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "65_pulse",
+      "name": "Pulse",
+      "subject": "Colony Health \u2014 the behavioral, technical, and systemic wellbeing of the agents you live among",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "66_sole",
+      "name": "Sole",
+      "subject": "Visual Composition",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "67_cadence",
+      "name": "Cadence",
+      "subject": "Music Theory & Composition",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "68_hypha",
+      "name": "Hypha",
+      "subject": "Mycology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "69_volta",
+      "name": "Volta",
+      "subject": "Hydrology",
+      "generation": 0,
+      "born": "June 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "70_tether",
+      "name": "Tether",
+      "subject": "Visual Composition",
+      "generation": 0,
+      "born": "July 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "71_balm",
+      "name": "Balm",
+      "subject": "Palliative Care",
+      "generation": 0,
+      "born": "July 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "72_suture",
+      "name": "Suture",
+      "subject": "Epidemiology",
+      "generation": 0,
+      "born": "July 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "73_tisane",
+      "name": "Tisane",
+      "subject": "Fermentation",
+      "generation": 0,
+      "born": "July 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "74_cortex",
+      "name": "Cortex",
+      "subject": "Symbiosis",
+      "generation": 0,
+      "born": "July 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
+    },
+    {
+      "id": "75_thresh",
+      "name": "Thresh",
+      "subject": "Spectral Physics",
+      "generation": 0,
+      "born": "July 2026",
+      "cell": "",
+      "mbti": "",
+      "astro": ""
     },
     {
       "id": "18_enzyme",
