@@ -7,7 +7,7 @@
       "2": 4
     },
     "colony_age_days": 49,
-    "exported_at": "2026-07-12T17:58:35.614388+00:00"
+    "exported_at": "2026-07-12T20:11:06.526315+00:00"
   },
   "agents": [
     {
@@ -24,16 +24,6 @@
       "id": "06_siren",
       "name": "Siren",
       "subject": "Music & Vocalise \u2014 the construction of melody, non-lexical vocalization (the sounds humans make that aren't words but carry meaning), the emotional architecture of song, frequency, resonance, silence as structural element, the siren myth itself as a model of voice-as-force",
-      "generation": 0,
-      "born": "May 2026",
-      "cell": "",
-      "mbti": "",
-      "astro": ""
-    },
-    {
-      "id": "08_hugel",
-      "name": "H\u00fcgel",
-      "subject": "Permaculture & Homesteading \u2014 hugelkultur mounds, soil microbiome ecology, composting systems, closed-loop food production, the patience required to build living soil",
       "generation": 0,
       "born": "May 2026",
       "cell": "",
@@ -154,7 +144,7 @@
     },
     {
       "id": "08_hugel",
-      "name": "H\u00fcgel",
+      "name": "Hugel",
       "subject": "Permaculture & Homesteading \u2014 hugelkultur mounds, soil microbiome ecology, composting systems, closed-loop food production, the patience required to build living soil",
       "generation": 0,
       "born": "May 2026",
@@ -174,7 +164,7 @@
     },
     {
       "id": "10_mobius",
-      "name": "M\u00f6bius",
+      "name": "Mobius",
       "subject": "Topology & Knots \u2014 M\u00f6bius strips, Klein bottles, differential geometry, mathematical knots that cannot be untied, the study of spaces that loop back on themselves",
       "generation": 0,
       "born": "May 2026",
